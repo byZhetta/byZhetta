@@ -1,18 +1,7 @@
 
 # Hi, I'm Ignacio <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<a href="https://google.com">
-  <img align="left" alt="byZhetta's Web" width="22px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fi0.kym-cdn.com%2Fphotos%2Fimages%2Foriginal%2F001%2F107%2F727%2F232.png&f=1&nofb=1&ipt=76bc49c7b19a184286b50f971f415aecd0ae120521be44f09275e8858163b349&ipo=images" />
-</a>
-<a href="https://linkedin.com/in/ashwanisng">
-  <img align="left" alt="byZhetta's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/byZhetta">
-  <img align="left" alt="byZhetta's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-
-<br>
-<br>
+## [![Linkedin Badge](https://img.shields.io/badge/-Ignacio%20Zolorza-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/byzhetta/)](https://www.google.com) [![Gmail Badge](https://img.shields.io/badge/-contact@ignaciozolorza.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ignaciozolorza@gmail.com)](mailto:ignaciozolorza@gmail.com) [![Portfolio Badge](https://img.shields.io/badge/-Portfolio%20Website-black?style=flat&logo=google&logoColor=white&link=https://www.google.com)](https://www.google.com)
 
 - 💼 I’m currently working on something amazing
 - 📫 How to reach me: [byzhetta.com](https://www.google.com)
@@ -51,10 +40,6 @@ How about, my alias is Zhetta. I am a person with good ability to create solutio
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byZhetta&layout=compact&&theme=merko" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=byZhetta&show_icons=true&line_height=27&count_private=true&&theme=merko" alt="byZhetta's GitHub Stats" />
-
-# Contact Me 📫
-
-## [![Linkedin Badge](https://img.shields.io/badge/-Ignacio%20Zolorza-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/byzhetta/)](https://www.google.com) [![Gmail Badge](https://img.shields.io/badge/-contact@ignaciozolorza.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ignaciozolorza@gmail.com)](mailto:ignaciozolorza@gmail.com) [![Portfolio Badge](https://img.shields.io/badge/-Portfolio%20Website-black?style=flat&logo=google&logoColor=white&link=https://www.google.com)](https://www.google.com)
 
 Let's connect 👨‍💻 and forge the future together. 😁✌ 
 
