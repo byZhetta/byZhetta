@@ -44,5 +44,5 @@ How about, my alias is Zhetta. I am a person with good ability to create solutio
 Let's connect 👨‍💻 and forge the future together. 😁✌ 
 
 <div align="center">
-**Check the Repositories and don't forget to give a star.** 👇
+<strong>Check the Repositories and don't forget to give a star.</strong> 👇
 </div>
