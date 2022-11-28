@@ -30,7 +30,6 @@ How about, my alias is Zhetta. I am a person with good ability to create solutio
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript&logoColor=ffffff)
 ![PHP](https://img.shields.io/badge/-PHP-blueviolet?style=flat&logo=php&logoColor=ffffff)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-4db33d?style=flat&logo=Node.js&logoColor=ffffff)
-
 ![ExpressJS](https://img.shields.io/badge/-ExpressJS-black?style=flat&logo=express)
 ![Laravel](https://img.shields.io/badge/-Laravel-F9322C?style=flat&logo=laravel&logoColor=ffffff)
 ![Livewire](https://img.shields.io/badge/-Livewire-4E56A6?style=flat&logo=livewire)
@@ -60,7 +59,5 @@ How about, my alias is Zhetta. I am a person with good ability to create solutio
 Let's connect 👨‍💻 and forge the future together. 😁✌ 
 
 <div align="center">
-
 **Check the Repositories and don't forget to give a star.** 👇
-
 </div>
