@@ -1,13 +1,13 @@
 
 # Hi, I'm Ignacio <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## [![Linkedin Badge](https://img.shields.io/badge/-Ignacio%20Zolorza-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/byzhetta/)](https://www.google.com) [![Gmail Badge](https://img.shields.io/badge/-contact@ignaciozolorza.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ignaciozolorza@gmail.com)](mailto:ignaciozolorza@gmail.com) [![Portfolio Badge](https://img.shields.io/badge/-Portfolio%20Website-black?style=flat&logo=google&logoColor=white&link=https://www.google.com)](https://www.google.com)
-
-- 💼 I’m currently working on something amazing
-- 📫 How to reach me: [byzhetta.com](https://www.google.com)
-- ⚡ Fun fact: I am always working
-
-# About Me 😃
+<table>
+  <tr>
+    <td><a href="https://www.linkedin.com/in/ashwanisng"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></td>
+    <td><a href="mailto:ignaciozolorzadev@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a></td>  
+    <td><a href="#"><img src="https://img.shields.io/badge/Portfolio--_.svg?style=social&logo=google" alt="Google"></a></td> 
+  </tr>
+</table>
 
 How about, my alias is Zhetta. I am a person with good ability to create solutions and solve problems, I love learning new things that help me advance in my growing technological career as a software developer, contributing my skills to design responsive solutions.
 
