@@ -3,9 +3,10 @@
 
 <table>
   <tr>
-    <td><a href="https://www.linkedin.com/in/ashwanisng"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></td>
+    <!--------
+    <td><a href="https://www.linkedin.com/in/ashwanisng" target="_blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></td>-------->
     <td><a href="mailto:ignaciozolorzadev@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a></td>  
-    <td><a href="https://byzhetta.web.app/"><img src="https://img.shields.io/badge/Portfolio--_.svg?style=social&logo=google" alt="Google"></a></td> 
+    <td><a href="https://byzhetta.web.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio--_.svg?style=social&logo=google" alt="Google"></a></td> 
   </tr>
 </table>
 
