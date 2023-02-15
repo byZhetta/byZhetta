@@ -10,9 +10,9 @@
   </tr>
 </table>
 
-How about, my alias is Zhetta. I am a person with good ability to create solutions and solve problems, I love learning new things that help me advance in my growing technological career as a software developer, contributing my skills to design responsive solutions.
+How about it, my nickname is Zhetta. I am a person with good ability to create solutions and solve problems, I love learning new things that help me advance in my growing technological career as a software developer, to give solutions according to current technologies.
 
-## Tech and Tools preferences 🔧
+## Technologies preferences 🔧
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3)
@@ -39,8 +39,11 @@ How about, my alias is Zhetta. I am a person with good ability to create solutio
 
 ## GitHub Stats 📌
 
+<div align="center">
+
 ![byZhetta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=byZhetta&show_icons=true&line_height=27&count_private=true&&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byZhetta&layout=compact&&theme=merko)
+
+</div>
 
 Let's connect 👨‍💻 and forge the future together. 😁✌ 
 
