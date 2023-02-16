@@ -18,9 +18,9 @@ How about it, my nickname is Zhetta. I am a person with good ability to create s
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript&logoColor=ffffff)
-![PHP](https://img.shields.io/badge/-PHP-blueviolet?style=flat&logo=php&logoColor=ffffff)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-4db33d?style=flat&logo=Node.js&logoColor=ffffff)
 ![ExpressJS](https://img.shields.io/badge/-ExpressJS-black?style=flat&logo=express)
+![PHP](https://img.shields.io/badge/-PHP-blueviolet?style=flat&logo=php&logoColor=ffffff)
 ![Laravel](https://img.shields.io/badge/-Laravel-F9322C?style=flat&logo=laravel&logoColor=ffffff)
 ![Livewire](https://img.shields.io/badge/-Livewire-4E56A6?style=flat&logo=livewire)
 
