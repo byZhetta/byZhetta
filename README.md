@@ -3,8 +3,7 @@
 
 <table>
   <tr>
-    <!--------
-    <td><a href="https://www.linkedin.com/in/ashwanisng" target="_blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></td>-------->
+    <td><a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></td>
     <td><a href="mailto:ignaciozolorzadev@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a></td>  
     <td><a href="https://byzhetta.web.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio--_.svg?style=social&logo=google" alt="Google"></a></td> 
   </tr>
@@ -12,7 +11,7 @@
 
 How about it, my nickname is Zhetta. I am a person with good ability to create solutions and solve problems, I love learning new things that help me advance in my growing technological career as a software developer, to give solutions according to current technologies.
 
-## Technologies preferences 🔧
+## Technologies preferences 🛠️
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3)
