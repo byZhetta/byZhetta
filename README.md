@@ -3,13 +3,13 @@
 
 <table>
   <tr>
-    <td><a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></td>
+    <td><a href="https://www.linkedin.com/in/ignacio-zolorzadev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></td>
     <td><a href="mailto:ignaciozolorzadev@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a></td>  
-    <td><a href="https://byzhetta.web.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio--_.svg?style=social&logo=google" alt="Google"></a></td> 
+    <td><a href="https://byzhetta.web.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio--_.svg?style=social&logo=google" alt="Google"></a></td>
   </tr>
 </table>
 
-How about it, my nickname is Zhetta. I am a person with good ability to create solutions and solve problems, I love learning new things that help me advance in my growing technological career as a software developer, to give solutions according to current technologies.
+How about it, my nickname is zhetta. I'm a person with good ability to create solutions and solve problems, I love learning new things that help me advance in my growing technological career as a software developer, to give solutions according to current technologies.
 
 ## Technologies preferences 🛠️
 
@@ -25,10 +25,10 @@ How about it, my nickname is Zhetta. I am a person with good ability to create s
 
 ### Database
 
-![MySQL](https://img.shields.io/badge/-MySQL-%23282C34?style=flat&logo=mysql&logoColor=ffffff)
-![MariaDB](https://img.shields.io/badge/-MariaDB-%23282C34?style=flat&logo=mariadb&logoColor=ffffff)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23282C34?style=flat&logo=postgresql&logoColor=ffffff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-%23282C34?style=flat&logo=mongodb&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/-MySQL-ffffff?style=flat&logo=mysql&logoColor=007597)
+![MariaDB](https://img.shields.io/badge/-MariaDB-ffffff?style=flat&logo=mariadb&logoColor=C0765A)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-ffffff?style=flat&logo=postgresql&logoColor=336791)
+![MongoDB](https://img.shields.io/badge/-MongoDB-ffffff?style=flat&logo=mongodb&logoColor=00ED64)
 
 ### Deploy
 
@@ -36,7 +36,7 @@ How about it, my nickname is Zhetta. I am a person with good ability to create s
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![Firebase](https://img.shields.io/badge/-Firebase-181717?style=flat&logo=firebase)
 
-## GitHub Stats 📌
+## Github stats 📌
 
 <div align="center">
 
