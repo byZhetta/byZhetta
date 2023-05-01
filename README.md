@@ -1,14 +1,6 @@
 
 # Hi, I'm Ignacio <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<table>
-  <tr>
-    <td><a href="https://www.linkedin.com/in/ignacio-zolorzadev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></td>
-    <td><a href="mailto:ignaciozolorzadev@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a></td>  
-    <td><a href="https://byzhetta.web.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio--_.svg?style=social&logo=google" alt="Google"></a></td>
-  </tr>
-</table>
-
 How about it, my nickname is zhetta. I'm a person with good ability to create solutions and solve problems, I love learning new things that help me advance in my growing technological career as a software developer, to give solutions according to current technologies.
 
 ## Technologies preferences 🛠️
@@ -23,14 +15,10 @@ How about it, my nickname is zhetta. I'm a person with good ability to create so
 ![Laravel](https://img.shields.io/badge/-Laravel-F9322C?style=flat&logo=laravel&logoColor=ffffff)
 ![Livewire](https://img.shields.io/badge/-Livewire-4E56A6?style=flat&logo=livewire)
 
-### Database
-
 ![MySQL](https://img.shields.io/badge/-MySQL-ffffff?style=flat&logo=mysql&logoColor=007597)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-ffffff?style=flat&logo=mariadb&logoColor=C0765A)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-ffffff?style=flat&logo=postgresql&logoColor=336791)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-ffffff?style=flat&logo=mongodb&logoColor=00ED64)
-
-### Deploy
 
 ![Git](https://img.shields.io/badge/-Git-181717?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
@@ -40,12 +28,12 @@ How about it, my nickname is zhetta. I'm a person with good ability to create so
 
 <div align="center">
 
-![byZhetta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=byZhetta&show_icons=true&line_height=27&count_private=true&&theme=merko)
+![byZhetta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=byZhetta&show_icons=true&line_height=27&count_private=true&&theme=highcontrast)
 
 </div>
 
-Let's connect 👨‍💻 and forge the future together. 😁✌ 
+😁 Let's connect and forge the future together. 👍
 
 <div align="center">
-<strong>Check the Repositories and don't forget to give a star.</strong> 👇
+👇 <strong>Check the Repositories and don't forget to give a star.</strong> 🌟
 </div>
