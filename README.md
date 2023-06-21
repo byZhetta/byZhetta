@@ -27,10 +27,9 @@ How about it, my nickname is zhetta. I'm a person with good ability to create so
 ## Github stats 📌
 
 <div align="center">
-
-![byZhetta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=byZhetta&show_icons=true&line_height=27&count_private=true&&theme=highcontrast)
-
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=byZhetta&theme=highcontrast" alt="Zhetta" /></p>
 </div>
+
 
 😁 Let's connect and forge the future together. 👍
 
