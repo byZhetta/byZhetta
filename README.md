@@ -5,15 +5,15 @@ How about it, my nickname is zhetta. I'm a person with good ability to create so
 
 ## Technologies preferences 🛠️
 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=ffffff)
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript&logoColor=ffffff)
-![Nodejs](https://img.shields.io/badge/-Nodejs-4db33d?style=flat&logo=Node.js&logoColor=ffffff)
-![ExpressJS](https://img.shields.io/badge/-ExpressJS-black?style=flat&logo=express)
-![PHP](https://img.shields.io/badge/-PHP-blueviolet?style=flat&logo=php&logoColor=ffffff)
-![Laravel](https://img.shields.io/badge/-Laravel-F9322C?style=flat&logo=laravel&logoColor=ffffff)
-![Livewire](https://img.shields.io/badge/-Livewire-4E56A6?style=flat&logo=livewire)
+![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=flat&logo=html5&logoColor=23E44D27)
+![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=flat&logo=css3&logoColor=%231572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript&logoColor=yellow)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat&logo=typescript&logoColor=blue)
+![Nodejs](https://img.shields.io/badge/-Nodejs-0D1117?style=flat&logo=Node.js&logoColor=4db33d)
+![ExpressJS](https://img.shields.io/badge/-ExpressJS-0D1117?style=flat&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-0D1117?style=flat&logo=php&logoColor=blueviolet)
+![Laravel](https://img.shields.io/badge/-Laravel-0D1117?style=flat&logo=laravel&logoColor=F9322C)
+![Livewire](https://img.shields.io/badge/-Livewire-0D1117?style=flat&logo=livewire&logoColor=4E56A6)
 
 ![MySQL](https://img.shields.io/badge/-MySQL-ffffff?style=flat&logo=mysql&logoColor=007597)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-ffffff?style=flat&logo=mariadb&logoColor=C0765A)
@@ -27,7 +27,7 @@ How about it, my nickname is zhetta. I'm a person with good ability to create so
 ## Github stats 📌
 
 <div align="center">
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=byZhetta&theme=highcontrast" alt="Zhetta" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=byZhetta&theme=github-dark" alt="Zhetta" /></p>
 </div>
 
 
