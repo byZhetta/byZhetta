@@ -23,6 +23,7 @@ How about it, my nickname is zhetta. I'm a person with good ability to create so
 ![Git](https://img.shields.io/badge/-Git-181717?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![Firebase](https://img.shields.io/badge/-Firebase-181717?style=flat&logo=firebase)
+![Docker](https://img.shields.io/badge/-Docker-181717?style=flat&logo=docker)
 ![Apache](https://img.shields.io/badge/-Apache-181717?style=flat&logo=apache&logoColor=CC2235)
 ![Linux](https://img.shields.io/badge/-Linux-181717?style=flat&logo=linux&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-181717?style=flat&logo=postman&logoColor=orange)
