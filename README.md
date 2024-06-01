@@ -25,6 +25,7 @@ How about it, my nickname is zhetta. I'm a person with good ability to create so
 ![Firebase](https://img.shields.io/badge/-Firebase-181717?style=flat&logo=firebase)
 ![Docker](https://img.shields.io/badge/-Docker-181717?style=flat&logo=docker)
 ![Apache](https://img.shields.io/badge/-Apache-181717?style=flat&logo=apache&logoColor=CC2235)
+![Nginx](https://img.shields.io/badge/-Nginx-181717?style=flat&logo=nginx&logoColor=009900)
 ![Linux](https://img.shields.io/badge/-Linux-181717?style=flat&logo=linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-181717?style=flat&logo=ubuntu&logoColor=E95420)
 ![Postman](https://img.shields.io/badge/-Postman-181717?style=flat&logo=postman&logoColor=orange)
