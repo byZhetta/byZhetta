@@ -10,9 +10,10 @@ How about it, my nickname is zhetta. I'm a person with good ability to create so
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript&logoColor=yellow)
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=flat&logo=php&logoColor=blueviolet)
 ![Laravel](https://img.shields.io/badge/-Laravel-0D1117?style=flat&logo=laravel&logoColor=F9322C)
+![Symfony](https://img.shields.io/badge/-Symfony-0D1117?style=flat&logo=symfony&logoColor=white)
 ![Livewire](https://img.shields.io/badge/-Livewire-0D1117?style=flat&logo=livewire&logoColor=4E56A6)
-![NodeJS](https://img.shields.io/badge/-NodeJS-0D1117?style=flat&logo=Node.js&logoColor=4db33d)
-![ExpressJS](https://img.shields.io/badge/-ExpressJS-0D1117?style=flat&logo=express&logoColor=white)
+![NodeJS](https://img.shields.io/badge/-Nodejs-0D1117?style=flat&logo=Node.js&logoColor=4db33d)
+![ExpressJS](https://img.shields.io/badge/-Expressjs-0D1117?style=flat&logo=express&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/-MySQL-ffffff?style=flat&logo=mysql&logoColor=007597)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-ffffff?style=flat&logo=mariadb&logoColor=C0765A)
